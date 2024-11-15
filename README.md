@@ -6,9 +6,9 @@
 
 <br/>
 
-
+<center>
 [![](https://visitcount.itsvg.in/api?id=deepabhyudaya&label=Profile%20Views&color=0&icon=8&pretty=false)](https://visitcount.itsvg.in)
-
+</center>
 
 <br/>
 
