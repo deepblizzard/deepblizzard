@@ -28,7 +28,7 @@
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,django,flask,selenium,tailwind,sass" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,django,flask,selenium,html,css,tailwind,sass" />
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,aws,cloudfare" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,aws,cloudflare" />
 </p>
 
 ## 👋 Contributions
