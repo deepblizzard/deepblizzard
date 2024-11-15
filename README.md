@@ -87,4 +87,5 @@
 <br />
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=deepabhyudaya&style=for-the-badge&color=orange" alt=""/></p>
+[![](https://visitcount.itsvg.in/api?id=deepabhyudaya&label=Profile%20Views&color=0&icon=8&pretty=false)](https://visitcount.itsvg.in)
+</p>
