@@ -26,8 +26,9 @@
 
 
 ## 🛠️ Skills
+
+- frontend
 <p align="center">
-  <p>Frontend</p>
   <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,django,flask" />
 </p>
 
