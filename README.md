@@ -28,11 +28,11 @@
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,django,flask,selenium,html,css,tailwind,sass" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,django,flask,selenium,html,css,tailwind,sass,bootstrap" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,express,nodejs,npm,deno,bun,vite" />
+  <img src="https://skillicons.dev/icons?i=discordjs,firebase,supabase,appwrite,express,nodejs,npm,deno,bun,vite" />
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,atom,windows,powershell,linux,bash,docker" />
+  <img src="https://skillicons.dev/icons?i=github,gitlab,git,vscode,idea,atom,sublime,pycharm,replit,windows,powershell,linux,bash,docker,arduino" />
 </p>
 
 ## 👋 Contributions
