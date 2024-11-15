@@ -15,6 +15,10 @@
 
 <br/>  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=deepabhyudaya&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
