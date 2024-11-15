@@ -27,14 +27,12 @@
 
 ## 🛠️ Skills
 
-- frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,django,flask,tailwind,sass" />
 </p>
 
-- backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,prisma,firebase,supabase,express,node" />
+  <img src="https://skillicons.dev/icons?i=mongodb,prisma,firebase,supabase,express,nodejs" />
 </p>
 
 ## 👋 Contributions
