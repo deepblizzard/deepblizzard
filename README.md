@@ -40,7 +40,11 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,js,java,py,rust,go,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,py,rust,go,c,cpp" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,spline,ae,ps" />
 </p>
 
 ## 👋 Contributions
