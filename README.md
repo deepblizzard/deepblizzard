@@ -8,13 +8,13 @@
 <br/>
 
 
-- 🌱 I’m currently learning <b>Rust</b> and After Effects  
+- 🌱 I’m currently learning <b>Rust</b> and <b>After Effects</b>
   
 
-- ❓ Ask me about anything related to Next.js and React.js  
+- ❓ Ask me about anything related to <b>Next.js</b> and <b>React.js</b>  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use <b>tabs over spaces</b>
   
 
 <br/>  
