@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,express,nodejs" />
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,express,nodejs,npm,deno,bun,vite" />
 </p>
 
 <p align="center">
@@ -49,6 +49,10 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,aws,cloudflare" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,atom,windows,powershell,linux,bash,docker" />
 </p>
 
 ## 👋 Contributions
