@@ -1,7 +1,7 @@
 
   
 
-### <div align="left">I'm Abhyudaya, I like coffee and to code, been learning since 2019.</div> 
+### <div align="center">I'm Abhyudaya, I like coffee and to code, been learning since 2019.</div> 
 
 
 
