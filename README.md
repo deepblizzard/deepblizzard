@@ -4,14 +4,6 @@
 ### <div align="left">I'm Abhyudaya, I like coffee and to code, been learning since 2019.</div> 
 
 
-<br/>
-
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=deepabhyudaya&label=Profile%20Views&color=0&icon=8&pretty=false" alt="Profile Views" />
-  </a>
-</p>
 
 <br/>
 
@@ -91,6 +83,9 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 </div>  
+
+
+<br/>
   
 
 <p align="center">
