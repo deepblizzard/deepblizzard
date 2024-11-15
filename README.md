@@ -27,7 +27,7 @@
 
 ## 🛠️ Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,aws,ai,tensorflow,pytorch,opencv,sklearn,nextjs,react,angular,svelte,vue,ts,django,fastapi,flask,express,nestjs,laravel,mysql,mongodb,prisma,postgres,tailwind,selenium,bots,js,php,css,html,c,cs,cpp,dotnet,github" />
+  <img src="https://skillicons.dev/icons?i=nextjs,reactjs,sveltejs,django,flask" />
 </p>
 
 ## 👋 Contributions
