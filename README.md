@@ -27,7 +27,7 @@
 
 ## 🛠️ Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,reactjs,sveltejs,django,flask" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,django,flask" />
 </p>
 
 ## 👋 Contributions
