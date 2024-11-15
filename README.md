@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,express,nodejs" />
+  <img src="https://skillicons.dev/icons?i=uploadthing,liveblocks,firebase,supabase,express,nodejs" />
 </p>
 
 <p align="center">
