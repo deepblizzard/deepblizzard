@@ -89,7 +89,5 @@
   
 ##
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=deepabhyudaya&label=Profile%20Views&color=0&icon=8&pretty=false" alt="Profile Views" />
-  </a>
 </p>
