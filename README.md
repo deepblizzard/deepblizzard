@@ -51,5 +51,4 @@
 <br />
 
 <p align="center">
-[![Abhyudaya profile views](https://u8views.com/api/v1/github/profiles/174234002/views/day-week-month-total-count.svg)](https://u8views.com/github/deepabhyudaya)
-</p>
+<img src="https://komarev.com/ghpvc/?username=deepabhyudaya&style=for-the-badge&color=orange" alt=""/></p>
