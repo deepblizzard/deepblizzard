@@ -52,8 +52,13 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,gitlab,git,vscode,idea,atom,sublime,pycharm,replit,windows,powershell,linux,bash,docker,arduino" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,atom,sublime,pycharm,replit" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,gitlab,git,windows,powershell,linux,bash,docker,arduino" />
+</p>
+
 
 ## 👋 Contributions
 <p align="center">
