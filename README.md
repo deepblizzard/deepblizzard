@@ -8,7 +8,7 @@
 <br/>
 
 
-- 🌱 I’m currently learning Rust and After Effects  
+- 🌱 I’m currently learning <b>Rust</b> and After Effects  
   
 
 - ❓ Ask me about anything related to Next.js and React.js  
