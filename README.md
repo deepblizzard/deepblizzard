@@ -32,7 +32,11 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,prisma,firebase,supabase,express,nodejs" />
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,express,nodejs" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=prisma,mongoose,mongodb,postgres,mysql,planetscale" />
 </p>
 
 ## 👋 Contributions
