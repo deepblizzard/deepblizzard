@@ -28,7 +28,7 @@
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,django,flask,selenium,tailwind,sass," />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,django,flask,selenium,tailwind,sass" />
 </p>
 
 <p align="center">
