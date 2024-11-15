@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=prisma,mongoose,mongodb,postgres,mysql,planetscale" />
+  <img src="https://skillicons.dev/icons?i=prisma,mongodb,postgres,mysql,planetscale" />
 </p>
 
 ## 👋 Contributions
