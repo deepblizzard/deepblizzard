@@ -29,7 +29,12 @@
 
 - frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,django,flask" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,django,flask,tailwind,sass" />
+</p>
+
+- backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,prisma,firebase,supabase,express,node" />
 </p>
 
 ## 👋 Contributions
