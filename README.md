@@ -116,21 +116,8 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=deepabhyudaya&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-<br/>  
-
-
-<br/>  
-
-  
-
-<br/>  
-
 
 <br />
 
-----
 
-[![Abhyudaya profile views](https://u8views.com/api/v1/github/profiles/174234002/views/day-week-month-total-count.svg)](https://u8views.com/github/deepabhyudaya)
+<div align="center">[![Abhyudaya profile views](https://u8views.com/api/v1/github/profiles/174234002/views/day-week-month-total-count.svg)](https://u8views.com/github/deepabhyudaya)</div>  
