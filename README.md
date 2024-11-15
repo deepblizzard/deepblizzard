@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ae,ps" />
+  <img src="https://skillicons.dev/icons?i=figma,ae,ps,blender" />
 </p>
 
 ## 👋 Contributions
