@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netflify,heroku,render,aws,cloudfare" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,aws,cloudfare" />
 </p>
 
 ## 👋 Contributions
