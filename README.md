@@ -28,15 +28,19 @@
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,django,flask,tailwind,sass" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,django,flask,selenium,tailwind,sass," />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=uploadthing,liveblocks,firebase,supabase,express,nodejs" />
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,express,nodejs" />
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=prisma,mongodb,postgres,mysql,planetscale" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,js,java,py,rust,go,c,cpp" />
 </p>
 
 ## 👋 Contributions
