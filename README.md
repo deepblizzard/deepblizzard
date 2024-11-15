@@ -1,7 +1,7 @@
 
   
 
-### <div align="center">I'm Abhyudaya, been learning programming since 2019.</div>  
+### <div align="center">I'm Abhyudaya, I like coffee and to code, been learning programming since 2019.</div>  
   
 
 - 🌱 I’m currently learning Rust and After Effects  
