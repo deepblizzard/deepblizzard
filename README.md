@@ -19,7 +19,7 @@
 ## 🏆 Trophies
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=deepabhyudaya&theme=algolia" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=deepabhyudaya&theme=algolia&hide_border=true" alt="GitHub Trophies" />
 </p>
 <br/>
 
