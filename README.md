@@ -60,7 +60,7 @@
 
 ## 📊 Stats
 <p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=deepabhyudaya&theme=algolia&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="deepabhyudaya's Stats" style="width:60%"/>
+  <img src="https://readme-stats-lake-six.vercel.app/api/?username=deepabhyudaya&theme=algolia&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="deepabhyudaya's Stats" style="width:60%"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=deepabhyudaya&theme=algolia&hide_border=true" alt="deepabhyudaya's Top Languages" style="width:50%" />
