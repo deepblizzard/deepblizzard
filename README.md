@@ -18,7 +18,7 @@
 
 ## 🏆 Trophies
 
-![](https://github-trophies.vercel.app/?username=deepabhyudaya&theme=algolia&no-frame=true&no-bg=true)
+![](https://github-trophies.vercel.app/?username=deepabhyudaya&theme=algolia&no-frame=true&no-bg=true&column=4)
 <br/>
 
 
