@@ -19,7 +19,7 @@
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://trophies-three.vercel.app/?username=deepabhyudaya&theme=algolia&no-frame=true&no-bg=true&column=4&rank=SECRET,SSS,SS,S,AAA,A,B,C" />
+  <img src="https://trophies-three.vercel.app/?username=deepabhyudaya&theme=algolia&no-frame=true&no-bg=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 
