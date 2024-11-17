@@ -18,7 +18,7 @@
 
 ## 🏆 Trophies
 
-![](https://github-trophies.vercel.app/?username=deepabhyudaya)
+![](https://github-trophies.vercel.app/?username=deepabhyudaya&theme=github-dark&no-frame=true&no-bg=true&rank=-?&column=4)
 <br/>
 
 
