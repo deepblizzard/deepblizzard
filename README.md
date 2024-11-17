@@ -65,9 +65,9 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=deepabhyudaya&theme=algolia&hide_border=true" alt="deepabhyudaya's Top Languages" style="width:50%" />
 </p>
-<!-- <p align="center">
-  <img src="https://readme-stats-lake-six.vercel.app/api/?username=deepabhyudaya&theme=algolia&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="deepabhyudaya's Top Languages" style="width:40%"/>
-</p> -->
+<p align="center">
+  <img src="https://readme-stats-lake-six.vercel.app/api/top-langs/?username=deepabhyudaya&layout=donut&theme=algolia" alt="deepabhyudaya's Top Languages" style="width:40%"/>
+</p>
 
 ## 👋 Contributions
 <p align="center">
