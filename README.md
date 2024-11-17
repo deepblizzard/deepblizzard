@@ -18,8 +18,9 @@
 
 ## 🏆 Trophies
 
-![]([https://github-trophies.vercel.app/?username=deepabhyudaya&theme=algolia&no-frame=true&no-bg=true&column=4&rank=SECRET,SSS,SS,S,AAA,A,B,C])
-<br/>
+<p align="center">
+  <img src="https://trophies-three.vercel.app/?username=deepabhyudaya&theme=algolia&no-frame=true&no-bg=true&column=4&rank=SECRET,SSS,SS,S,AAA,A,B,C" />
+</p>
 
 
 ## 🛠 Skills
