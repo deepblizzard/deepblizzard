@@ -1,10 +1,10 @@
-### <div align="center">I'm Abhyudaya, I like coffee and to code, been learning since 2019.</div> 
+<p align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bv2tdafyshgbc3qloph4x7nfvi&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://open.spotify.com/user/31bv2tdafyshgbc3qloph4x7nfvi?si=0c628087d59e4c96)" width="300">
 
 
 
 <br/>
 
- <p align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bv2tdafyshgbc3qloph4x7nfvi&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://open.spotify.com/user/31bv2tdafyshgbc3qloph4x7nfvi?si=0c628087d59e4c96)" width="300">
+### <div align="center">I'm Abhyudaya, I like coffee and to code, been learning since 2019.</div>  
 
  <br/>
  
