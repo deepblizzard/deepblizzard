@@ -66,7 +66,7 @@
   <img src="https://streak-stats.demolab.com/?user=deepabhyudaya&theme=algolia&hide_border=true" alt="deepabhyudaya's Top Languages"  />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepabhyudaya&layout=donut&theme=algolia&hide_border=true" alt="deepabhyudaya's Top Languages" />
+  <img src="https://readme-stats-lake-seven.vercel.app/api/top-langs/?username=deepabhyudaya&layout=donut&theme=algolia&hide_border=true" alt="deepabhyudaya's Top Languages" />
 </p>
 
 ## 👋 Contributions
