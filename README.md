@@ -14,8 +14,8 @@
 - ⚡ Fun fact: I use <b>tabs over spaces</b>
 
 
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31bv2tdafyshgbc3qloph4x7nfvi&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31bv2tdafyshgbc3qloph4x7nfvi&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=false&bar_color=53b14f&bar_color_cover=true)]]
-  
+
+  <p align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31bv2tdafyshgbc3qloph4x7nfvi&redirect=true&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" width="300">
 
 <br/>  
 
