@@ -5,6 +5,13 @@
 
 <br/>
 
+
+<p align="center"><img src="https://avatars.githubusercontent.com/u/174234002?v=4" width="150" /></p>
+
+
+<br/>
+
+
 ### <div align="center">I'm Abhyudaya, I like coffee and to code, been learning since 2019.</div>  
 
  <br/>
