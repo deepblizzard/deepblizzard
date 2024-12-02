@@ -104,7 +104,7 @@
 ## 📨 Connect with me  
 <div align="center">
 <a href="https://github.com/deepabhyudaya" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github />
 </a>
 <a href="https://linkedin.com/in/deepabhyudaya">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
