@@ -54,7 +54,9 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=prisma,mongodb,postgres,mysql,planetscale" />
+  <img src="https://skillicons.dev/icons?i=prisma,mongodb" /><br/><br/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" /><br/><br/><br/>
+  <img src="https://skillicons.dev/icons?i=planetscale" /><br/><br/><br/>
 </p>
 
 <p align="center">
