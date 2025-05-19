@@ -40,10 +40,10 @@
 
 ## 🛠 Skills
 
-<p align="center">
+<p align="center"><br/><br/><br/>
   <img src="https://skillicons.dev/icons?i=nextjs,react,svelte" /> <br/><br/><br/>
   <img src="https://skillicons.dev/icons?i=django,flask,html,css" /><br/><br/><br/>
-  <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap" /><br/><br/><br/>
 </p>
 
 <p align="center">
