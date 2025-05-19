@@ -43,8 +43,7 @@
 <p align="center"><br/><br/><br/>
   <img src="https://skillicons.dev/icons?i=nextjs,react,svelte" /> <br/><br/><br/>
   <img src="https://skillicons.dev/icons?i=django,flask,html,css" /><br/><br/><br/>
-  
-  <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap" /><br/><br/><br/>
+  <img src="https://skillicons.dev/icons?i=tailwindcss,sass,bootstrap" /><br/><br/><br/>
   
 </p>
 
