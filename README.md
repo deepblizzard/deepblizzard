@@ -50,7 +50,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=selenium,firebase,supabase" /><br/><br/><br/>
   <img src="https://skillicons.dev/icons?i=appwrite,discordjs,express,nodejs,npm" /><br/><br/><br/>
-  <img src="https://skillicons.dev/icons?deno,bun,vite" /><br/><br/><br/>
+  <img src="https://skillicons.dev/icons?i=deno,bun,vite" /><br/><br/><br/>
 </p>
 
 <p align="center">
