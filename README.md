@@ -41,7 +41,7 @@
 ## 🛠 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,django,flask,html,css,tailwind,sass,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,svelte" />
   <img src="https://skillicons.dev/icons?i=django,flask,html,css" />
   <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap" />
 </p>
