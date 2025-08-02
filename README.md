@@ -37,9 +37,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=prisma,mongodb" /><br/><br/><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" /><br/><br/><br/>
-  <img src="https://skillicons.dev/icons?i=planetscale" /><br/><br/><br/>
-</p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,planetscale" /><br/><br/><br/>
 
 
 <p align="center">
@@ -50,40 +48,6 @@
   <img src="https://skillicons.dev/icons?i=github,gitlab,git,windows,powershell,linux,bash,docker,arduino" />
 </p>
 
-## 👋 Contributions
-<p align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepabhyudaya&theme=github-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepabhyudaya/deepabhyudaya/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepabhyudaya/deepabhyudaya/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/deepabhyudaya/deepabhyudaya/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-
-<br/>  
-
-
-## 📨 Connect with me  
-<div align="center">
-<a href="https://github.com/deepabhyudaya" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github />
-</a>
-<a href="https://linkedin.com/in/deepabhyudaya">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</div>  
-
-
-<br/>
-  
-##
-<p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=deepabhyudaya&label=Profile%20Views&color=0&icon=8&pretty=false" alt="Profile Views" />
-</p>
 
 <br/>
 
