@@ -11,31 +11,13 @@
 <br/>
 
 
-### <div align="center">I'm Abhyudaya, I like coffee and to code, been learning since 2019.</div>  
-
- <br/>
- 
-
-
-- 🌱 I’m currently learning <b>C, Rust</b> and <b>After Effects</b>
-  
-
-- ❓ Ask me about anything related to <b>Next.js</b> and <b>React.js</b>  
-  
-
-- ⚡ Fun fact: I use <b>tabs over spaces</b>
-
+### <div align="center">I'm antiSymmtric, I like coffee and to code.</div>  
 
 
 
 
 <br/>  
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://trophies-three.vercel.app/?username=deepabhyudaya&theme=algolia&no-frame=true&no-bg=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
-</p>
 
 
 ## 🛠 Skills
@@ -59,36 +41,13 @@
   <img src="https://skillicons.dev/icons?i=planetscale" /><br/><br/><br/>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,py,rust,go,c,cpp" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ae,ps,blender" />
-</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,aws,cloudflare" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,atom,sublime,pycharm,replit" />
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=github,gitlab,git,windows,powershell,linux,bash,docker,arduino" />
-</p>
-
-
-## 📊 Stats
-<p align="center">
-  <img src="https://readme-stats-lake-seven.vercel.app/api/?username=deepabhyudaya&theme=algolia&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="deepabhyudaya's Stats" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=deepabhyudaya&theme=algolia&hide_border=true" alt="deepabhyudaya's Top Languages"  />
-</p>
-<p align="center">
-  <img src="https://readme-stats-lake-seven.vercel.app/api/top-langs/?username=deepabhyudaya&layout=donut&theme=algolia&hide_border=true" alt="deepabhyudaya's Top Languages" />
 </p>
 
 ## 👋 Contributions
