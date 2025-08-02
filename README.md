@@ -40,15 +40,6 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql,planetscale" /><br/><br/><br/>
 
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,aws,cloudflare" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,gitlab,git,windows,powershell,linux,bash,docker,arduino" />
-</p>
-
-
 <br/>
 
 ## 🧑‍🤝‍🧑 Followers <kbd>318</kbd>
