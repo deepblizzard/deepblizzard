@@ -32,12 +32,5 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=selenium,firebase,supabase" /><br/><br/><br/>
   <img src="https://skillicons.dev/icons?i=appwrite,discordjs,express,nodejs,npm" /><br/><br/><br/>
-  <img src="https://skillicons.dev/icons?i=deno,bun,vite" /><br/>
+  <img src="https://skillicons.dev/icons?i=deno,bun,vite" />
 </p>
-
-<p align="center"
-  <img src="https://skillicons.dev/icons?i=prisma,mongodb" /><br/><br/><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,planetscale" /><br/><br/><br/>
-
-
-<br/>
