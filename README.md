@@ -5,8 +5,8 @@
 <br/>
 
 
-<p align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bv2tdafyshgbc3qloph4x7nfvi&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://open.spotify.com/user/31bv2tdafyshgbc3qloph4x7nfvi?si=0c628087d59e4c96)" width="300">
-
+<p align="center">
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31aqzkvypehw7wkyuapk2hnlae2a&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31aqzkvypehw7wkyuapk2hnlae2a&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)]]
 
 <br/>
 
